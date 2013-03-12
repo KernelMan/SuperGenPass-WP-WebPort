@@ -44,7 +44,7 @@
                     <HyperlinkButton Content="Nic Wolff" NavigateUri="http://www.angel.net/~nic/" TargetName="_blank" HorizontalAlignment="Left" Margin="329,124,0,0" VerticalAlignment="Top"/>
                     <TextBlock HorizontalAlignment="Left" Margin="233,160,0,0" TextWrapping="Wrap" Text="Author of the original bookmarklet password generator." VerticalAlignment="Top" Width="213"/>
                     <HyperlinkButton Content="ChrisSGP" NavigateUri="http://bit.ly/XA3JEr" TargetName="_blank" HorizontalAlignment="Left" Margin="0,274,0,0" VerticalAlignment="Top" Width="116"/>
-                    <TextBlock HorizontalAlignment="Left" Margin="10,310,0,0" TextWrapping="Wrap" Text="Author of an SuperGenPass" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,310,0,0" TextWrapping="Wrap" Text="Author of SuperGenPass" VerticalAlignment="Top"/>
                     <TextBlock HorizontalAlignment="Left" Margin="198,434,0,0" TextWrapping="Wrap" Text="Author of Windows Phone App" VerticalAlignment="Top" Width="176"/>
                 </Grid>
             </phone:PivotItem>
