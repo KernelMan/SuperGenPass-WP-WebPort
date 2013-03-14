@@ -6,11 +6,11 @@ using System.Resources;
 // Управление общими сведениями о сборке осуществляется с помощью следующего 
 // набора атрибутов. Измените значения этих атрибутов для изменения
 // сведений о сборке.
-[assembly: AssemblyTitle("SuperGenPassWeb")]
+[assembly: AssemblyTitle("SuperGenPass")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SuperGenPassWeb")]
+[assembly: AssemblyProduct("SuperGenPass")]
 [assembly: AssemblyCopyright("GPL")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,6 +32,6 @@ using System.Resources;
 //
 // Можно указать все значения или задать для номеров редакции и построения значения по умолчанию 
 // с помощью символа '*', как показано ниже:
-[assembly: AssemblyVersion("1.0.2")]
-[assembly: AssemblyFileVersion("1.0.2")]
+[assembly: AssemblyVersion("1.1.0")]
+[assembly: AssemblyFileVersion("1.1.0")]
 [assembly: NeutralResourcesLanguageAttribute("en")]

@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AuthorWP" xml:space="preserve">
+    <value>Автор приложения для Windows Phone</value>
+  </data>
+  <data name="ClearAll" xml:space="preserve">
+    <value>Очистить всё</value>
+  </data>
   <data name="ResourceFlowDirection" xml:space="preserve">
     <value>LeftToRight</value>
     <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
@@ -125,13 +131,34 @@
     <value>ru-RU</value>
     <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
   </data>
-  <data name="ApplicationTitle" xml:space="preserve">
-    <value>МОЕ ПРИЛОЖЕНИЕ</value>
+  <data name="AppBarButtonAbout" xml:space="preserve">
+    <value>Информация</value>
   </data>
-  <data name="AppBarButtonText" xml:space="preserve">
-    <value>добавить</value>
+  <data name="AppBarButtonClearAll" xml:space="preserve">
+    <value>Очистить всё</value>
   </data>
-  <data name="AppBarMenuItemText" xml:space="preserve">
-    <value>Пункт меню</value>
+  <data name="AuthorGP" xml:space="preserve">
+    <value>Автор оригинального генаратора паролей</value>
+  </data>
+  <data name="AuthorJSMD5" xml:space="preserve">
+    <value>Автор интерпретации алгоритма MD5 на JavaScript</value>
+  </data>
+  <data name="AuthorMacVer" xml:space="preserve">
+    <value>Автор − Eric Veenendaal</value>
+  </data>
+  <data name="AuthorSGP" xml:space="preserve">
+    <value>Автор SuperGenPass</value>
+  </data>
+  <data name="LinkVersionMac" xml:space="preserve">
+    <value>SuperGenPass для iOS и Mac</value>
+  </data>
+  <data name="PageAbout" xml:space="preserve">
+    <value>Информация</value>
+  </data>
+  <data name="PageAuthors" xml:space="preserve">
+    <value>Авторы</value>
+  </data>
+  <data name="SGPDescription" xml:space="preserve">
+    <value>SuperGenPass это особенный вид менеджеров паролей. Вместо того чтобы хранить ваши пароли на вашем жестком диске или в сети, где они уязвимы для кражи и потери данных — SuperGenPass использует хэш-алгоритм для преобразования мастер-пароля в уникальные сложные пароли для веб-сайтов, которые вы посещаете.</value>
   </data>
 </root>

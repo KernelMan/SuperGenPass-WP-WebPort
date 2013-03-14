@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="ru-RU" original="AppResources.resx" tool-id="MultilingualAppToolkit" product-name="SuperGenPassWeb" product-version="1.1.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.2.2017.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resx">
+        <trans-unit id="Resx/AppBarButtonAbout" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="final">Информация</target>
+        </trans-unit>
+        <trans-unit id="Resx/AppBarButtonClearAll" translate="yes" xml:space="preserve">
+          <source>Clear all</source>
+          <target state="final">Очистить всё</target>
+        </trans-unit>
+        <trans-unit id="Resx/AuthorGP" translate="yes" xml:space="preserve">
+          <source>Author of the original bookmarklet password generator</source>
+          <target state="final">Автор оригинального генаратора паролей</target>
+        </trans-unit>
+        <trans-unit id="Resx/AuthorJSMD5" translate="yes" xml:space="preserve">
+          <source>Author of JavaScript implementation of MD5</source>
+          <target state="final">Автор интерпретации алгоритма MD5 на JavaScript</target>
+        </trans-unit>
+        <trans-unit id="Resx/AuthorMacVer" translate="yes" xml:space="preserve">
+          <source>Author − Eric Veenendaal</source>
+          <target state="final">Автор − Eric Veenendaal</target>
+        </trans-unit>
+        <trans-unit id="Resx/AuthorSGP" translate="yes" xml:space="preserve">
+          <source>Author of SuperGenPass</source>
+          <target state="translated">Автор SuperGenPass</target>
+        </trans-unit>
+        <trans-unit id="Resx/AuthorWP" translate="yes" xml:space="preserve">
+          <source>Author of Windows Phone app</source>
+          <target state="final">Автор приложения для Windows Phone</target>
+        </trans-unit>
+        <trans-unit id="Resx/ClearAll" translate="yes" xml:space="preserve">
+          <source>Clear all</source>
+          <target state="final">Очистить всё</target>
+        </trans-unit>
+        <trans-unit id="Resx/LinkVersionMac" translate="yes" xml:space="preserve">
+          <source>iOS and Mac version of SGP</source>
+          <target state="final">SuperGenPass для iOS и Mac</target>
+        </trans-unit>
+        <trans-unit id="Resx/PageAbout" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="final">Информация</target>
+        </trans-unit>
+        <trans-unit id="Resx/PageAuthors" translate="yes" xml:space="preserve">
+          <source>Authors</source>
+          <target state="final">Авторы</target>
+        </trans-unit>
+        <trans-unit id="Resx/ResourceFlowDirection" translate="yes" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="translated">LeftToRight</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</note>
+        </trans-unit>
+        <trans-unit id="Resx/ResourceLanguage" translate="yes" xml:space="preserve">
+          <source>en</source>
+          <target state="translated">ru-RU</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</note>
+        </trans-unit>
+        <trans-unit id="Resx/SGPDescription" translate="yes" xml:space="preserve">
+          <source>SuperGenPass is a different kind of password manager. Instead of storing your passwords on your hard disk or online — where they are vulnerable to theft and data loss — SuperGenPass uses a hash algorithm to transform a master password into unique, complex passwords for the Web sites you visit.</source>
+          <target state="translated">SuperGenPass это особенный вид менеджеров паролей. Вместо того чтобы хранить ваши пароли на вашем жестком диске или в сети, где они уязвимы для кражи и потери данных — SuperGenPass использует хэш-алгоритм для преобразования мастер-пароля в уникальные сложные пароли для веб-сайтов, которые вы посещаете.</target>
+        </trans-unit>
+        <trans-unit id="Resx/Slogan" translate="no" xml:space="preserve">
+          <source>A Better Password Generator</source>
+          <target state="new">A Better Password Generator</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

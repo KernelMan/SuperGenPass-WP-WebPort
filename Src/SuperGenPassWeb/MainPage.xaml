@@ -27,15 +27,8 @@
 
         <!--ContentPanel — поместите здесь дополнительное содержимое-->
         <Grid x:Name="ContentPanel" Background="White" Grid.Row="1"/>
-        <phone:WebBrowser x:Name="Browser" HorizontalAlignment="Left" Grid.Row="1" ScrollViewer.VerticalScrollBarVisibility="Disabled" Width="480"/>
+            <phone:WebBrowser x:Name="Browser" HorizontalAlignment="Left" Grid.Row="1" ScrollViewer.VerticalScrollBarVisibility="Disabled" Width="480"/>
         </Grid>
-    
-        <!--ApplicationBar-->
-        <phone:PhoneApplicationPage.ApplicationBar>
-            <shell:ApplicationBar IsVisible="True" IsMenuEnabled="False" Mode="Default">
-                <shell:ApplicationBarIconButton IconUri="/Images/clearall.png" Text="Clear All" Click="ClearAllClick"/>
-                <shell:ApplicationBarIconButton IconUri="/Images/about.png" Text="About" Click="AboutClick"/>
-            </shell:ApplicationBar>
-        </phone:PhoneApplicationPage.ApplicationBar>
 
+        <!--ApplicationBar is in MainPage.xaml.cs class LocalizedApplicationBar-->
 </phone:PhoneApplicationPage>
