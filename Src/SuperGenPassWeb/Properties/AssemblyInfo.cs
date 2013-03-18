@@ -9,7 +9,7 @@ using System.Resources;
 [assembly: AssemblyTitle("SuperGenPass")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Кёрнел")]
 [assembly: AssemblyProduct("SuperGenPass")]
 [assembly: AssemblyCopyright("GPL")]
 [assembly: AssemblyTrademark("")]
@@ -32,6 +32,6 @@ using System.Resources;
 //
 // Можно указать все значения или задать для номеров редакции и построения значения по умолчанию 
 // с помощью символа '*', как показано ниже:
-[assembly: AssemblyVersion("1.1.0")]
-[assembly: AssemblyFileVersion("1.1.0")]
+[assembly: AssemblyVersion("1.2.1")]
+[assembly: AssemblyFileVersion("1.2.1")]
 [assembly: NeutralResourcesLanguageAttribute("en")]
